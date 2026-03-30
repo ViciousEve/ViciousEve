@@ -18,7 +18,7 @@ Here are the tools and technologies I have used:
 I am currently focusing on diving deeper into:
 - **Docker** containerization and orchestration
 - **.NET** ecosystem
-
+<!--
 ### 📈 GitHub Stats
 
 <p align="left">
