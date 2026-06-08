@@ -30,7 +30,7 @@ I'm actively expanding my expertise in:
 
 ### 📫 How to reach me
 
-- **LinkedIn:** [Connect with me](www.linkedin.com/in/nguyen-thanh-tuan-viciousev)
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/nguyen-thanh-tuan-viciousev)
 - **Email:** tuannguyenonair@gmail.com
 
 ### 🤝 Open to Collaboration
