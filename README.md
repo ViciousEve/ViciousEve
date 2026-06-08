@@ -23,7 +23,7 @@ I'm actively expanding my expertise in:
 
 ### 📈 GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ViciousEve)](https://github.com/ViciousEve/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ViciousEve&show_icon=true&theme=radical)
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=ViciousEve&theme=default&hide_border=true" alt="Streak" />
 </p>
