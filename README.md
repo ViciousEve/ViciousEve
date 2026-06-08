@@ -1,10 +1,10 @@
 # Hi there 👋, I'm ViciousEve
 
-Welcome to my GitHub profile! I'm a developer passionate about building applications and continuously expanding my skill set.
+Welcome to my GitHub profile! I'm a full-stack developer passionate about building scalable applications and continuously expanding my skill set. I specialize in modern web development and cloud-native technologies.
 
 ### 🛠️ My Tech Stack
 
-Here are the tools and technologies I have used:
+Here are the tools and technologies I work with:
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -15,22 +15,27 @@ Here are the tools and technologies I have used:
 </p>
 
 ### 🌱 Currently Learning
-I am currently focusing on diving deeper into:
+
+I'm actively expanding my expertise in:
 - **Docker** containerization and orchestration
-- **.NET** ecosystem
-<!--
+- **ASP.NET Core** patterns and microservices architecture
+- Cloud-native development practices
+
 ### 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ViciousEve&show_icons=true&theme=radical" alt="ViciousEve's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViciousEve&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<!--
+
 ### 📫 How to reach me
-<!--
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [Your Website](https://yourwebsite.com)
+
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile)
+- **Portfolio:** [View my work](https://yourwebsite.com)
 - **Email:** yourmail@example.com
-<!-- 
-⚡ Fun fact: Add a fun fact about yourself here!
--->
+
+### 🤝 Open to Collaboration
+
+I'm always interested in discussing new projects, innovative ideas, or contributions to open-source projects. Feel free to reach out!
+
+⚡ **Fun fact:** I believe the best code is clean, maintainable, and well-documented code that others can understand without a PhD!
