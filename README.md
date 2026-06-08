@@ -24,8 +24,9 @@ I'm actively expanding my expertise in:
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViciousEve&show_icons=true&theme=radical" alt="ViciousEve's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViciousEve&show_icons=true&theme=radical)" alt="ViciousEve's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViciousEve&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=ViciousEve&theme=default&hide_border=true" alt="Streak" />
 </p>
 
 ### 📫 How to reach me
