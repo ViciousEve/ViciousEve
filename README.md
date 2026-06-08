@@ -18,7 +18,7 @@ Here are the tools and technologies I work with:
 
 I'm actively expanding my expertise in:
 - **Docker** containerization and orchestration
-- **ASP.NET Core** patterns and microservices architecture
+- **ASP.NET Core** patterns and architecture
 - Cloud-native development practices
 
 ### 📈 GitHub Stats
@@ -30,12 +30,10 @@ I'm actively expanding my expertise in:
 
 ### 📫 How to reach me
 
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile)
-- **Portfolio:** [View my work](https://yourwebsite.com)
-- **Email:** yourmail@example.com
+- **LinkedIn:** [Connect with me](www.linkedin.com/in/nguyen-thanh-tuan-viciousev)
+- **Email:** tuannguyenonair@gmail.com
 
 ### 🤝 Open to Collaboration
 
 I'm always interested in discussing new projects, innovative ideas, or contributions to open-source projects. Feel free to reach out!
 
-⚡ **Fun fact:** I believe the best code is clean, maintainable, and well-documented code that others can understand without a PhD!
